@@ -19,28 +19,6 @@
   </tr>
 </table>
 
-
-
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=100&size=27&pause=1000&color=F7D7C4&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Yash+Dayani!+%F0%9F%A7%91%F0%9F%8F%BB;A+Passionate+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
-</h1>
-
-<h3 align="center">A passionate web developer from India </h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
