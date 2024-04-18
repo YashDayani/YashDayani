@@ -1,6 +1,6 @@
 <img width="100%" src="welcome.gif">
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=F8BAAA&vCenter=true&random=false&width=435&lines=‎‎‎‎‎WELCOME+TO+MY+GITHUB+PROFILE" alt="Typing SVG" /></div>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=F8BAAA&vCenter=true&random=false&width=435&lines=‎‎‎‎‎WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></div>
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
