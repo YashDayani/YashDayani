@@ -4,8 +4,8 @@
       <img width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" />
     </td>
     <td style="border: 0";>
-      <h1 align="left" id="macropower-title">:wave: Hello there!</h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=100&size=27&pause=1000&color=F7D7C4&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani!+%F0%9F%A7%91%F0%9F%8F%BB;A+Passionate+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
+      <h1 align="left" id="macropower-title">:wave: Hello there!
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=100&size=27&pause=1000&color=F7D7C4&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani!+%F0%9F%A7%91%F0%9F%8F%BB;A+Passionate+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
       <h3>Other places you can find me</h3>
       <ul>
         <li>
