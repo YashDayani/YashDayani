@@ -4,12 +4,10 @@
       <img width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" />
     </td>
     <td style="border: 0";>
-      <p>
-        💻 Project focused on quality content on programming and technology in general <a href="https://www.instagram.com/guiadevbrasil/">Guia Dev Brasil<a/>.
-      </p>
-      <p>
-        🌙 Making daily content in <a href="https://www.instagram.com/guiadevbrasil/">@guiadevbrasil</a>, I supplement that writing with <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">videos on Youtube</a>.
-      </p>
+      <h1 align="left" id="macropower-title">:wave: Hello there!</h1>
+      <h1 align="left">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=100&size=27&pause=1000&color=F7D7C4&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Yash+Dayani!+%F0%9F%A7%91%F0%9F%8F%BB;A+Passionate+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
+</h1>
       <h3>Other places you can find me</h3>
       <ul>
         <li>
