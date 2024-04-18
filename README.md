@@ -5,7 +5,7 @@
     </td>
     <td style="border: 0";>
       <h1 align="left" id="macropower-title">:wave: Hello there!
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=22&pause=1000&color=1F2328&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" /></h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=35&pause=1000&color=1F2328&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" /></h1>
       <h3>Other places you can find me</h3>
       <ul>
         <li>
