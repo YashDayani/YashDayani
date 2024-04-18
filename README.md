@@ -6,7 +6,7 @@
     <td style="border: 0";>
       <h1 align="left" id="macropower-title">:wave: Hello there!
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" />
-      <img src"https://github-profile-trophy.vercel.app/?username=yashdayani&column=4&margin-w=7&margin-h=7" /></h1>
+      <img src"https://github-profile-trophy.vercel.app/?username=yashdayani&column=4&margin-w=7&margin-h=7"></h1>
     </td>
   </tr>
 </table>
