@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yashdayani.yashdayani">
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=100&size=27&pause=1000&color=F7D7C4&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Yash+Dayani!+%F0%9F%A7%91%F0%9F%8F%BB;A+Passionate+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
