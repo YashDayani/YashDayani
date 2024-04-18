@@ -1,6 +1,6 @@
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=F8BAAA&vCenter=true&random=false&width=435&lines=‎‎‎‎‎🎉+WELCOME+TO+MY+PROFILE+🎉" alt="Typing SVG" /></div>
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=F8BAAA&vCenter=true&random=false&width=435&lines=‎‎‎‎‎🎉+WELCOME+TO+MY+PROFILE+🎉" alt="Typing SVG" /></h1>
 <img width="100%" src="welcome.gif">
 
 <table border="0" cellspacing="0" cellpadding="0">
