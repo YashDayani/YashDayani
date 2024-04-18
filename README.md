@@ -19,8 +19,8 @@
   </tr>
 </table>
         
-<img align='left' src="Profile2/dance.gif" width="50">
-<h3>Let's connect and learn together!</h3>
+<img align='left' src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="50">
+<h3>About Me</h3>
 <hr>
 
 <div align="center"> 
