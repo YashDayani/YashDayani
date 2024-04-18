@@ -5,6 +5,8 @@
 </div>
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
+    <td><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=F8BAAA&vCenter=true&random=false&width=435&lines=‎‎‎‎‎🎉+WELCOME+TO+MY+PROFILE+🎉" alt="Typing SVG" /></td>
+  <tr>
     <td style="border: 0";>
       <img width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" />
     </td>
