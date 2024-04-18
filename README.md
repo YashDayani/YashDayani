@@ -1,7 +1,7 @@
 <img width="100%" src="welcome.gif">
 <div align="center">
 <h1 align="center">Hi there👋🏻</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=F8BAAA&vCenter=true&random=false&width=435&lines=‎‎‎‎‎    I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" /></h1></div>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=F8BAAA&vCenter=true&random=false&width=435&lines=‎‎‎‎‎       +I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" /></h1></div>
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
