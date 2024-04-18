@@ -1,4 +1,4 @@
-<img width="100%" src="https://pouch.jumpshare.com/preview/W6Aa4zwrCG_41sfVAhzms12aKZm1inZIwJtViJYQmr_fXSgkqmBcTdIBz_cQQQBZX39QKhM0XGwWejZl6X15S_lRCvWN5czXliCRSAn-F-g">
+<img width="100%" src="welcome.gif">
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
