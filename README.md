@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/8tEA0Yp">
+<img src="https://i.imgur.com/sn0e7Lx.gif">
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
