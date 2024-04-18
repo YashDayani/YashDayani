@@ -5,22 +5,8 @@
     </td>
     <td style="border: 0";>
       <h1 align="left" id="macropower-title">:wave: Hello there!
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" /></h1>
-      <h3>Other places you can find me</h3>
-      <ul>
-        <li>
-          🐦 <a href="https://twitter.com/manotoquinho">Follow me on Twitter</a>
-        </li>
-        <li>
-          📺 <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g">Subscribe on Youtube</a>
-        </li>
-        <li>
-          📷 <a href="https://www.instagram.com/guiadevbrasil/">Follow me on instagram</a>
-        </li>
-        <li>
-          📬 <a href=mailto:arthurguiadev@gmail.com>Contact-me on email</a>
-        </li>
-      </ul>
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" />
+      <img src"https://github-profile-trophy.vercel.app/?username=yashdayani&column=4&margin-w=7&margin-h=7" /></h1>
     </td>
   </tr>
 </table>
