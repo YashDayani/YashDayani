@@ -13,7 +13,7 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=YashDayani&color=brightgreen&style=flat">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashdayani&margin-w=10">
+    <img src="https://github-profile-trophy.vercel.app/?username=yashdayani&column=4&margin-w=7&margin-h=7">
 </div>
 
 <h1 align="center">
