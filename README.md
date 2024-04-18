@@ -1,5 +1,5 @@
 <div align="center">
-    ![Profile Views](https://komarev.com/ghpvc/?username=YashDayani&color=brightgreen&style=flat
+    <img src="https://komarev.com/ghpvc/?username=YashDayani&color=brightgreen&style=flat"/>
 </div>
 
 <h1 align="center">
