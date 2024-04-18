@@ -1,4 +1,6 @@
-
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=YashDayani&color=F8BAAA&style=flat">
+</div>
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=F8BAAA&vCenter=true&random=false&width=435&lines=‎‎‎‎‎🎉+WELCOME+TO+MY+PROFILE+🎉" alt="Typing SVG" /></h1>
 
@@ -17,10 +19,7 @@
   </tr>
 </table>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=YashDayani&color=F8BAAA&style=flat">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashdayani&column=4&margin-w=7&margin-h=7">
-</div>
+
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=100&size=27&pause=1000&color=F7D7C4&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Yash+Dayani!+%F0%9F%A7%91%F0%9F%8F%BB;A+Passionate+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
