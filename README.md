@@ -58,8 +58,8 @@ const Ayon_ssp = {
 <img align='left' src="Rocket.png" width="50">
 <h3>My Skills</h3>
 <br/>
-<ol>
-    <li>
+<ol type="I">
+    <li> Languages <br>
 <!-- Languages -->
 <div align="center"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=F4470B">
