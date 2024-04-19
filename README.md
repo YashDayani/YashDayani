@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=YashDayani&color=F8BAAA&style=flat">
 </div>
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=F8BAAA&vCenter=true&random=false&width=435&lines=‎‎‎‎‎🎉+WELCOME+TO+MY+PROFILE+🎉" alt="Typing SVG" /></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=‎‎‎‎‎🎉+WELCOME+TO+MY+PROFILE+🎉" alt="Typing SVG" /></h1>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
