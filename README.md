@@ -58,13 +58,16 @@ const Ayon_ssp = {
 <img align='left' src="Rocket.png" width="50">
 <h3>My Skills</h3>
 <br/>
+<ol>
+    <li>
 <!-- Languages -->
 <div align="center"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=F4470B">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=2862E9">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=4886B7">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</div>    
+</div>
+    </li>
     
 <!-- Frameworks -->
 <!-- Tools -->
