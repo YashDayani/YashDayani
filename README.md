@@ -59,7 +59,7 @@ const Ayon_ssp = {
 <h3>My Skills</h3>
 <br/>
 <ol type="I">
-    <li><h2>Languages</h2> <br>
+    <li><h3>Languages</h3> <br>
 <!-- Languages -->
 <div align="center"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=F4470B">
