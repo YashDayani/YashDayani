@@ -110,13 +110,4 @@ const Ayon_ssp = {
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=yashdayani&repo=Netflix-Clone">
 </p> -->
 
-
-<!--
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
 <a href="#top"><img align="right" src ="bug.png"></a>
