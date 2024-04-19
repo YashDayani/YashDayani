@@ -157,14 +157,6 @@ No Activity Tracked This Week
 HTML                     1 repo              █████████████████████████   100.00 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/YashDayani/YashDayani/main/assets/bar_graph.png)
-
-
- Last Updated on 19/04/2024 13:08:42 UTC
 <!--END_SECTION:waka-->
 <br>
 <div align=center>
