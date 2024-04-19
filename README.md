@@ -1,8 +1,11 @@
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=YashDayani&color=F8BAAA&style=flat">
 </div>
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=‎‎‎‎‎🎉+WELCOME+TO+MY+PROFILE+🎉" alt="Typing SVG" /></h1>
+
+<div align="center">
+    <img src="PartyPopper.png" width="50">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=‎‎‎‎‎WELCOME+TO+MY+PROFILE" alt="Typing SVG" />
+</div>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -12,8 +15,9 @@
     <td style="border: 0";>
        <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="50"> Hey there!</h1>
     <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" /></h1><div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=yashdayani&column=4&margin-w=20&margin-h=20"></div>
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" /></h1><div align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=yashdayani&column=4&margin-w=20&margin-h=20">
+    </div>
     </td>
   </tr>
 </table>
@@ -37,31 +41,27 @@ const Ayon_ssp = {
 ```
 
 <div align="center"> 
-<a href="#"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/yash.dayani"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:yashdayani0@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+    <a href="#"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+    <a href="https://instagram.com/yash.dayani"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+    <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:yashdayani0@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 
 
  
 <h3 align="left">⚒️ Languages-Frameworks-Tools</h3>
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
     <img src="https://skillicons.dev/icons?i=python,mysql" /><br>
 </div>
 
 <br/>
-<hr/>
 
 <img align='left' src="Snake.png" width="50">
 <h3>My Contributions</h3>
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yashdayani/yashdayani/output/github-contribution-grid-snake.svg" />
-  
-
-<hr/>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yashdayani/yashdayani/output/github-contribution-grid-snake.svg" />
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
