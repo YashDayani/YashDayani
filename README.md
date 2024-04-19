@@ -111,5 +111,4 @@ const Ayon_ssp = {
 </p> -->
 
 
-<a href="#top" align='left'>d<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up%20Light%20Skin%20Tone.png" width="50">d
-<h4>Scroll to Top</h4></a>
+<a href="#top" align='left'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up%20Light%20Skin%20Tone.png" width="50"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=‎‎‎‎‎SCROLL+TO+TOP" alt="Typing SVG" /></a>
