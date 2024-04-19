@@ -49,7 +49,7 @@ const Ayon_ssp = {
 
 
  
-<h3 align="left">⚒️ Languages-Frameworks-Tools-OS</h3>
+<h3 align="left">Skills</h3>
 <br/>
 <!-- Languages -->
 <!-- Frameworks -->
