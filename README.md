@@ -55,9 +55,9 @@ const Ayon_ssp = {
 <br/>
 <hr/>
 
+<img align='left' src="Snake.png" width="50">
+<h3>My Contributions</h3>
 
-  <img src="Snake.png" width="50"> <h3> My Contributions </h3>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yashdayani/yashdayani/output/github-contribution-grid-snake.svg" />
   
 
