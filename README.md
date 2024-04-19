@@ -22,6 +22,36 @@
 <img align='left' src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="50">
 <h3>About Me</h3>
 
+```javascript
+const Ayon_ssp = {
+  pronouns: "he" | "him",
+  Iam : ["Software Developer", "OPEN SOURCE Dev", "Competitive Programming"],
+  code: [Python, SQL, Javascript, CSS, PHP, C/C++],
+  tools & Tech: [Django, Django-REST, React JS, vscode, Node, PostgreSQL, Docker, Linux, Git, Flask, HTML, Postman],
+  TechWork: {
+          Competitive Programming: "Solving Problems",
+          OPEN SOURCE Dev : "RandomCoderOrg",
+    },
+  Experience: {
+          Technical Content Writer: "GeeksForGeeks",
+          Software_Developer Intern: "ENITIATE(Product Based Startup)",
+          Back End Engineer: "DIGIFRILLS PVT LTD",
+          SDE Intern: "Mastek",
+    },
+  WorkedOn: {
+          Mastek: "Java, PL/SQL",
+          DIGIFRILLS PVT LTD: "Node JS, MongoDB, API, Schema Design, Appwrite",
+          ENITIATE: "React JS, JavaScript, JSON Web Token (JWT), PostgreSQL, Vite",
+          RandomCoderOrgRandomCoderOrg: "Python (Programming Language), Api, yml, Linux, Github Actions",
+          GeeksForGeeks: "Python, Postgres Database, SQL(PSQL), Linux, C++",
+          College & Projects: "Python + DSA, Django, C (Programming language)",
+    },
+
+
+ challenge: "Currently I'm focused on Django, Django REST api, React and DSA"
+}
+```
+
 <div align="center"> 
 <a href="#"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/yash.dayani"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
