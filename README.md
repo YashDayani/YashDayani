@@ -39,6 +39,8 @@ const Ayon_ssp = {
  challenge: "Currently I'm focused on React and Node"
 }
 ```
+<br/>
+<br/>
 
 <img align='left' src="Telephone.png" width="50">
 <h3>My Contacts</h3>
@@ -49,6 +51,8 @@ const Ayon_ssp = {
     <a href="mailto:yashdayani0@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 
+<br/>
+<br/>
 
 <img align='left' src="Rocket.png" width="50">
 <h3>My Skills</h3>
@@ -62,6 +66,7 @@ const Ayon_ssp = {
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+<br/>
 <br/>
 
 <img align='left' src="Snake.png" width="50">
