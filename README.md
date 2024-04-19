@@ -23,7 +23,7 @@
 </table>
         
 <img align='left' src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="50">
-<h2>About Me</h2>
+<h3>About Me</h3>
 
 ```javascript
 const Ayon_ssp = {
@@ -39,14 +39,14 @@ const Ayon_ssp = {
  challenge: "Currently I'm focused on React and Node"
 }
 ```
-
+```
 <div align="center"> 
     <a href="#"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
     <a href="https://instagram.com/yash.dayani"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
     <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="mailto:yashdayani0@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
-
+```
 
 <img align='left' src="Rocket.png" width="50">
 <h3>Skills</h3>
