@@ -10,9 +10,9 @@
       <img width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" />
     </td>
     <td style="border: 0";>
-       <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="52"> Hey there!</h1>
+       <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="50"> Hey there!</h1>
     <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=F8BAAA&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" /></h1><div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" /></h1><div align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=yashdayani&column=4&margin-w=20&margin-h=20"></div>
     </td>
   </tr>
@@ -24,30 +24,15 @@
 ```javascript
 const Ayon_ssp = {
   pronouns: "he" | "him",
-  Iam : ["Software Developer", "OPEN SOURCE Dev", "Competitive Programming"],
-  code: [Python, SQL, Javascript, CSS, PHP, C/C++],
-  tools & Tech: [Django, Django-REST, React JS, vscode, Node, PostgreSQL, Docker, Linux, Git, Flask, HTML, Postman],
+  I am : ["Web Developer", "OPEN SOURCE Dev", "Competitive Programming"],
+  Code: [Python, SQL, Javascript, CSS],
+  Tools & Tech: [Linux, Git, HTML],
   TechWork: {
           Competitive Programming: "Solving Problems",
           OPEN SOURCE Dev : "RandomCoderOrg",
     },
-  Experience: {
-          Technical Content Writer: "GeeksForGeeks",
-          Software_Developer Intern: "ENITIATE(Product Based Startup)",
-          Back End Engineer: "DIGIFRILLS PVT LTD",
-          SDE Intern: "Mastek",
-    },
-  WorkedOn: {
-          Mastek: "Java, PL/SQL",
-          DIGIFRILLS PVT LTD: "Node JS, MongoDB, API, Schema Design, Appwrite",
-          ENITIATE: "React JS, JavaScript, JSON Web Token (JWT), PostgreSQL, Vite",
-          RandomCoderOrgRandomCoderOrg: "Python (Programming Language), Api, yml, Linux, Github Actions",
-          GeeksForGeeks: "Python, Postgres Database, SQL(PSQL), Linux, C++",
-          College & Projects: "Python + DSA, Django, C (Programming language)",
-    },
 
-
- challenge: "Currently I'm focused on Django, Django REST api, React and DSA"
+ challenge: "Currently I'm focused on React and Node"
 }
 ```
 
@@ -60,7 +45,7 @@ const Ayon_ssp = {
 
 
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
@@ -71,7 +56,7 @@ const Ayon_ssp = {
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Snake.png?raw=true width="50"> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yashdayani/yashdayani/output/github-contribution-grid-snake.svg" />
   
