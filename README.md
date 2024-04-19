@@ -1,4 +1,4 @@
-<div align="right">
+<div align="right" id="top">
     <img src="https://komarev.com/ghpvc/?username=YashDayani&color=F8BAAA&style=flat">
 </div>
 
@@ -119,3 +119,4 @@ const Ayon_ssp = {
 <hr/>
 
 <br/>
+<a href="#top"><img align="right" src ="bug.png"></a>
