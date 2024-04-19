@@ -56,6 +56,7 @@ const Ayon_ssp = {
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
     <img src="https://skillicons.dev/icons?i=python,mysql" /><be>
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&color=D0074E">
+        ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
 <br/>
