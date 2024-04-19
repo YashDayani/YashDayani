@@ -45,7 +45,7 @@ const Ayon_ssp = {
 
 
  
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="left">⚒️ Languages-Frameworks-Tools</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
@@ -55,8 +55,8 @@ const Ayon_ssp = {
 <br/>
 <hr/>
 
-<div align="center">
-  <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Snake.png?raw=true width="50"> My Contributions </h2>
+<div align="left">
+  <h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Snake.png?raw=true width="10"> My Contributions </h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yashdayani/yashdayani/output/github-contribution-grid-snake.svg" />
   
