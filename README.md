@@ -52,6 +52,7 @@ const Ayon_ssp = {
 </div>
 
 <br/>
+<h2></h2>
 <br/>
 
 <img align='left' src="Rocket.png" width="50">
@@ -67,13 +68,19 @@ const Ayon_ssp = {
 </div>
 
 <br/>
+<h2></h2>
 <br/>
 
 <img align='left' src="Snake.png" width="50">
 <h3>My Contributions</h3>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yashdayani/yashdayani/output/github-contribution-grid-snake.svg" />
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+<h2></h2>
+<br/>
+
+<img align='left' src="Stats.png" width="50">
+<h3>My Stats</h3>
 <br>
 <div align=center>
   <p align="center">
