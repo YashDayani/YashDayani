@@ -48,8 +48,8 @@ const Ayon_ssp = {
 </div>
 
 
- 
-<h3 align="left">Skills</h3>
+<img align='left' src="Rocket.png" width="50">
+<h3>Skills</h3>
 <br/>
 <!-- Languages -->
 <!-- Frameworks -->
