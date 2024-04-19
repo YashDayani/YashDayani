@@ -60,7 +60,6 @@ const Ayon_ssp = {
 
 <img align='left' src="Rocket.png" width="50">
 <h3>My Skills</h3>
-<br/>
 <ol type="I">
     <li><h3>Languages</h3> <br>
         <!-- Languages -->
@@ -76,11 +75,10 @@ const Ayon_ssp = {
         <div align="center">
             <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
             <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-            <img src="">
         </div> 
 <!-- Frameworks -->
 <!-- Tools -->
-<!-- OS -->
+<!-- OS <img src=""> -->
 
 
 <br/>
