@@ -2,6 +2,9 @@
     <img src="https://komarev.com/ghpvc/?username=YashDayani&color=F8BAAA&style=flat">
 </div>
 
+<br>
+<br>
+
 <div align="center">
     <img src="PartyPopper.png" width="65">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=‎‎‎‎‎WELCOME+TO+MY+PROFILE" alt="Typing SVG" />
@@ -60,24 +63,25 @@ const Ayon_ssp = {
 <br/>
 <ol type="I">
     <li><h3>Languages</h3> <br>
-<!-- Languages -->
-<div align="center"> 
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=F4470B">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=2862E9">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=4886B7">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</div>
+        <!-- Languages -->
+        <div align="center"> 
+            <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=F4470B">
+            <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=2862E9">
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=4886B7">
+            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+        </div>
     </li>
-    
+    <li><h3>Databases</h3> <br>
+        <!-- Database -->
+        <div align="center">
+            <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+            <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+            <img src="">
+        </div> 
 <!-- Frameworks -->
 <!-- Tools -->
 <!-- OS -->
-<!-- Database 
-<div align="center">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&color=D0074E">
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="">
-</div> -->
+
 
 <br/>
 <h2></h2>
