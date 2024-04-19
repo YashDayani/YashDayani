@@ -19,7 +19,7 @@
 </table>
         
 <img align='left' src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="50">
-<h3>About Me</h3>
+<h2>About Me</h2>
 
 ```javascript
 const Ayon_ssp = {
