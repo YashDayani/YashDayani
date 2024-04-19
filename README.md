@@ -99,8 +99,6 @@ const Ayon_ssp = {
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-696%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -113,45 +111,6 @@ const Ayon_ssp = {
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                41 commits          ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-🌆 Daytime                46 commits          ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-🌃 Evening                70 commits          ███████████░░░░░░░░░░░░░░   44.59 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Thursday                 76 commits          ████████████░░░░░░░░░░░░░   48.41 % 
-Friday                   72 commits          ███████████░░░░░░░░░░░░░░   45.86 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -161,7 +120,7 @@ HTML                     1 repo              ███████████�
 
 
 
- Last Updated on 19/04/2024 13:31:37 UTC
+ Last Updated on 19/04/2024 18:34:53 UTC
 <!--END_SECTION:waka-->
 
 <br>
