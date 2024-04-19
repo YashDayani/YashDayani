@@ -39,25 +39,25 @@ const Ayon_ssp = {
  challenge: "Currently I'm focused on React and Node"
 }
 ```
-```
+
+<img align='left' src="Telephone.png" width="50">
+<h3>My Contacts</h3>
 <div align="center"> 
     <a href="#"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
     <a href="https://instagram.com/yash.dayani"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
     <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="mailto:yashdayani0@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
-```
+
 
 <img align='left' src="Rocket.png" width="50">
-<h3>Skills</h3>
+<h3>My Skills</h3>
 <br/>
 <!-- Languages -->
 <!-- Frameworks -->
 <!-- Tools -->
 <!-- OS -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-    <img src="https://skillicons.dev/icons?i=python,mysql" /><be>
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&color=D0074E">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
