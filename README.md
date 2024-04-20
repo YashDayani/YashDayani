@@ -37,7 +37,6 @@ const Ayon_ssp = {
   Tools & Tech: [Linux, Git, HTML],
   TechWork: {
           Competitive Programming: "Solving Problems",
-          OPEN SOURCE Dev : "RandomCoderOrg",
     },
 
  challenge: "Currently I'm focused on React and Node"
