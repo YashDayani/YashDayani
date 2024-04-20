@@ -30,8 +30,7 @@
 <h3>About Me</h3>
 
 ```javascript
-const Ayon_ssp = {
-  pronouns: "he" | "him",
+const Yash_bio = {
   I am : ["Web Developer", "OPEN SOURCE Dev", "Competitive Programming"],
   Code: [Python, SQL, Javascript, CSS],
   Tools & Tech: [Linux, Git, HTML],
