@@ -32,8 +32,8 @@
 ```javascript
 const Yash_bio = {
   I am : ["Web Developer", "OPEN SOURCE Dev", "Competitive Programming"],
-  Code: [Python, SQL, Javascript, CSS],
-  Tools & Tech: [Linux, Git, HTML],
+  Code: [Javascript , CSS, Python, SQL],
+  Tools & Tech: [HTML, Git, Linux],
   TechWork: {
           Competitive Programming: "Solving Problems",
     },
