@@ -82,7 +82,6 @@ const Yash_bio = {
 <!-- Tools -->
 <!-- OS <img src=""> -->
 
-
 <br/>
 <h2></h2>
 <br/>
