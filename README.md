@@ -30,7 +30,9 @@
         
 <img align='left' src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="50">
 <h3>About Me</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" /></h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" />
+
 ```javascript
 const Yash_bio = {
   I am : ["Front-End Web Developer", "OPEN SOURCE Dev", "Competitive Programming"],
