@@ -193,4 +193,4 @@ JavaScript               1 repo              ██████░░░░░�
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=1500&pause=3000&color=1F2328&center=true&vCenter=true&random=false&width=435&lines=‎‎‎‎‎SCROLL+TO+TOP" alt="Typing SVG" />
+<a href="#" align='left'><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=1500&pause=3000&color=1F2328&center=true&vCenter=true&random=false&width=435&lines=‎‎‎‎‎SCROLL+TO+TOP" alt="Typing SVG" /></a>
