@@ -189,8 +189,8 @@ JavaScript               1 repo              ██████░░░░░�
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=yashdayani&repo=Netflix-Clone">
 </p> -->
 
-<a href="#" align='left'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up%20Light%20Skin%20Tone.png" width="50">
+<a href="#" align='left'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up%20Light%20Skin%20Tone.png" width="50"></a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=1500&pause=3000&color=1F2328&center=true&vCenter=true&random=false&width=435&lines=‎‎‎‎‎SCROLL+TO+TOP" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=1500&pause=3000&color=1F2328&center=true&vCenter=true&random=false&width=435&lines=‎‎‎‎‎SCROLL+TO+TOP" alt="Typing SVG" />
