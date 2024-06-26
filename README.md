@@ -1,13 +1,13 @@
 
+
+
+<img align='center' src="header.gif" >
+
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=YashDayani&color=F8BAAA&style=flat">
-    <h1>Hi 👋, I Am Yash Dayani</h1>
+    <h1>Hi 👋, I Am Yash Dayani <br> <img src="https://komarev.com/ghpvc/?username=YashDayani&color=F8BAAA&style=flat"></h1>
 </div>
 
 <br>
-<br>
-
-<img align='center' src="header.gif" >
         
 <img align='left' src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="50">
 <h3>About Me</h3>
