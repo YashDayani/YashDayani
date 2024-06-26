@@ -44,6 +44,7 @@ const Yash_bio = {
  challenge: "Currently I'm focused on React and Node"
 }
 ```
+<br/>
  <img src="https://github-profile-trophy.vercel.app/?username=yashdayani&column=8&margin-w=20&margin-h=20">
 <br/>
 <br/>
