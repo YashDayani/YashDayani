@@ -1,14 +1,7 @@
-<br>
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=YashDayani&color=F8BAAA&style=flat">
-</div>
-
-<br>
 
 <div align="center">
-    <img src="PartyPopper.png" width="65">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&center=true&vCenter=true&random=false&width=435&lines=‎‎‎‎‎WELCOME+TO+MY+PROFILE" alt="Typing SVG" /> <be>
-    <!-- <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&center=true&vCenter=true&random=false&width=435&lines=I+AM+YASH+DAYANI;A+WEB+DEVELOPER" alt="Typing SVG" /> -->
+    <img src="https://komarev.com/ghpvc/?username=YashDayani&color=F8BAAA&style=flat">
+    <h1>Hi 👋, I Am Yash Dayani</h1>
 </div>
 
 <br>
