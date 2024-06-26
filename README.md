@@ -14,20 +14,7 @@
 <br>
 <br>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <img width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*GvgWBKBU9ADjoXSG.gif" />
-    </td>
-    <td style="border: 0";>
-       <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="50"> Hey there!</h1>
-    <div>
-      <!--  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=500&color=1F2328&vCenter=true&random=false&width=435&lines=I+am+Yash+Dayani;A+Passionate+Web+Developer" alt="Typing SVG" /></h1><div align="center"> -->
-        <img src="https://github-profile-trophy.vercel.app/?username=yashdayani&column=4&margin-w=20&margin-h=20">
-    </div>
-    </td>
-  </tr>
-</table>
+<img align='center' src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fd4ip9ssnukmb1.gif" >
         
 <img align='left' src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="50">
 <h3>About Me</h3>
