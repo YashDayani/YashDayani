@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<img align='center' src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fd4ip9ssnukmb1.gif" >
+<img align='center' src="header.gif" >
         
 <img align='left' src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="50">
 <h3>About Me</h3>
