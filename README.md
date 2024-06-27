@@ -4,7 +4,7 @@
 <img align='center' src="header.gif" >
 
 <div align="center">
-    <h2>Hi 👋, I Am Yash Dayani <br> <img src="https://komarev.com/ghpvc/?username=YashDayani&color=F8BAAA&style=flat"></h2>
+    <h1>Hi 👋, I Am Yash Dayani <br> <img src="https://komarev.com/ghpvc/?username=YashDayani&color=F8BAAA&style=flat"></h1>
 </div>
 
 <br>
