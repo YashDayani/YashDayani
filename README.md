@@ -88,7 +88,7 @@ const Yash_bio = {
 
 > 📦 86.7 kB Used in GitHub's Storage 
  > 
-> 🏆 392 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,18 +123,16 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      42 mins             █████████████████████░░░░   82.28 % 
-JavaScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-eCommerce                51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -148,7 +146,7 @@ CSS                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 23/09/2024 18:43:01 UTC
+ Last Updated on 24/09/2024 18:43:35 UTC
 <!--END_SECTION:waka-->
 
 <br>
