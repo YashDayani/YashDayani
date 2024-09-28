@@ -88,8 +88,6 @@ const Yash_bio = {
 
 > 📦 86.7 kB Used in GitHub's Storage 
  > 
-> 🏆 392 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -146,7 +144,7 @@ CSS                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 27/09/2024 18:43:20 UTC
+ Last Updated on 28/09/2024 18:40:56 UTC
 <!--END_SECTION:waka-->
 
 <br>
