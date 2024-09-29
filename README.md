@@ -80,13 +80,15 @@ const Yash_bio = {
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 86.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 392 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,16 +123,20 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               7 mins              ███████████████░░░░░░░░░░   58.35 % 
+HTML                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+JSON                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+New folder               8 mins              █████████████████░░░░░░░░   67.01 % 
+Unknown Project          4 mins              ████████░░░░░░░░░░░░░░░░░   32.99 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +150,7 @@ CSS                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 28/09/2024 18:40:56 UTC
+ Last Updated on 29/09/2024 18:41:26 UTC
 <!--END_SECTION:waka-->
 
 <br>
