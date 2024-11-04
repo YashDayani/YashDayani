@@ -80,6 +80,8 @@ const Yash_bio = {
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2054%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -94,6 +96,45 @@ const Yash_bio = {
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                116 commits         ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+🌆 Daytime                111 commits         ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+🌃 Evening                159 commits         ██████████░░░░░░░░░░░░░░░   41.09 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Wednesday                54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Thursday                 99 commits          ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Friday                   102 commits         ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Saturday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -106,7 +147,7 @@ CSS                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 18:41:42 UTC
+ Last Updated on 04/11/2024 18:42:33 UTC
 <!--END_SECTION:waka-->
 
 <br>
