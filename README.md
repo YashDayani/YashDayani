@@ -80,8 +80,6 @@ const Yash_bio = {
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2054%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -147,7 +145,7 @@ CSS                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 09/11/2024 18:40:00 UTC
+ Last Updated on 10/11/2024 18:39:49 UTC
 <!--END_SECTION:waka-->
 
 <br>
