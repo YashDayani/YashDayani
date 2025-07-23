@@ -175,7 +175,9 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <br>
 
-<img align='center' src ="https://github-readme-streak-stats-one-livid-37.vercel.app/?user=yashdayani&theme=swift&hide_border=true&background=FFFFFF00">
+<div align="center"> 
+    <img src ="https://github-readme-streak-stats-one-livid-37.vercel.app/?user=yashdayani&theme=swift&hide_border=true&background=FFFFFF00">
+</div>
 
 
 
