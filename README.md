@@ -11,14 +11,30 @@
 
 ```javascript
 const Yash_bio = {
-  I am : ["Front-End Web Developer", "OPEN SOURCE Dev", "Competitive Programming"],
-  Code: [Javascript, CSS, Python, SQL],
-  Tools & Tech: [HTML, Git, Linux],
-  TechWork: {
-          Competitive Programming: "Solving Problems",
-    },
-
- challenge: "Currently I'm focused on React and Node"
+  "I am": [
+    "Yash Dayani, a web developer dedicated to crafting seamless and engaging digital experiences."
+  ],
+  "Code": [
+    "JavaScript",
+    "TypeScript",
+    "CSS",
+    "Python",
+    "MongoDB",
+    "Express",
+    "React",
+    "Node.js"
+  ],
+  "Tools & Tech": [
+    "HTML",
+    "Git",
+    "Linux"
+  ],
+  "TechWork": {
+    "Frontend Development": "Building responsive UIs with React, Tailwind CSS, and component libraries like ShadCN UI",
+    "Backend Development": "Creating RESTful APIs using Node.js and Express",
+    "Full-Stack Projects": "Building end-to-end applications using the MERN stack"
+  },
+  "Challenge": "Currently focused on mastering Next.js and building scalable full-stack applications with TypeScript."
 }
 ```
 
