@@ -97,7 +97,7 @@ const Yash_bio = {
 
 > 📦 217.2 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2026
+> 🏆 54 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -144,20 +144,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               15 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
-TypeScript               14 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               15 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+JavaScript               15 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 02/05/2026 19:34:10 UTC
+ Last Updated on 03/05/2026 19:33:05 UTC
 <!--END_SECTION:waka-->
 
 <br>
