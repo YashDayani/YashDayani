@@ -144,20 +144,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               16 repos            ███████████░░░░░░░░░░░░░░   43.24 % 
-TypeScript               15 repos            ██████████░░░░░░░░░░░░░░░   40.54 % 
-MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   42.11 % 
+JavaScript               16 repos            ███████████░░░░░░░░░░░░░░   42.11 % 
+MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 21/06/2026 20:12:18 UTC
+ Last Updated on 22/06/2026 21:20:21 UTC
 <!--END_SECTION:waka-->
 
 <br>
