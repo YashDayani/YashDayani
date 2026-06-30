@@ -132,19 +132,16 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 mins             █████████████████████████   98.94 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              10 mins             ████████████████████░░░░░   80.78 % 
-VS Code                  2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Feedspace-Frontend-Nextjs13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -160,7 +157,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2026 20:24:11 UTC
+ Last Updated on 30/06/2026 20:29:18 UTC
 <!--END_SECTION:waka-->
 
 <br>
