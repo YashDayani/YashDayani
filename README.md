@@ -89,7 +89,7 @@ const Yash_bio = {
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C418%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C420%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -132,16 +132,25 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 7 hrs 28 mins       █████████████░░░░░░░░░░░░   53.97 % 
+TypeScript               4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.14 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+CSS                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              11 hrs 48 mins      █████████████████████░░░░   85.34 % 
+VS Code                  2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+observer-sessions        6 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.01 % 
+remix_-company-research-a2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Feedspace-Frontend-Nextjs1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+HTML Drop                58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+reviewos.io              40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      13 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +166,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2026 19:57:50 UTC
+ Last Updated on 14/07/2026 19:51:51 UTC
 <!--END_SECTION:waka-->
 
 <br>
