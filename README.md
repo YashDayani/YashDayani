@@ -89,6 +89,8 @@ const Yash_bio = {
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C591%20hrs%2040%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.41%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -103,6 +105,54 @@ const Yash_bio = {
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                299 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+🌆 Daytime                659 commits         █████████░░░░░░░░░░░░░░░░   36.43 % 
+🌃 Evening                666 commits         █████████░░░░░░░░░░░░░░░░   36.82 % 
+🌙 Night                  185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Tuesday                  165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Wednesday                192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Thursday                 370 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Friday                   279 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Saturday                 476 commits         ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+Sunday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+Markdown                 5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+Other                    2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+JavaScript               1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+JSON                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+
+🔥 Editors: 
+Claude Code              13 hrs 40 mins      ██████████████████░░░░░░░   72.01 % 
+VS Code                  5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+
+🐱‍💻 Projects: 
+Feedspace-Embed-Widget   4 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+Feedspace-Frontend-Nextjs4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+frontend                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+observer-sessions        2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Hobbo-API                1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+
+💻 Operating System: 
+Mac                      18 hrs 59 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -116,7 +166,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:54:32 UTC
+ Last Updated on 25/07/2026 19:43:16 UTC
 <!--END_SECTION:waka-->
 
 <br>
