@@ -132,25 +132,25 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Markdown                 5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Other                    2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-JavaScript               1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-JSON                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+TypeScript               4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
+Markdown                 3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Other                    1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+JSON                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+CSS                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 40 mins      ██████████████████░░░░░░░   72.01 % 
-VS Code                  5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Claude Code              10 hrs 41 mins      ███████████████████░░░░░░   75.72 % 
+VS Code                  3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
 
 🐱‍💻 Projects: 
-Feedspace-Embed-Widget   4 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-Feedspace-Frontend-Nextjs4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-frontend                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-observer-sessions        2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Hobbo-API                1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Feedspace-Embed-Widget   4 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
+Feedspace-Frontend-Nextjs3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+observer-sessions        1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Hobbo-API                1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+frontend                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 💻 Operating System: 
-Mac                      18 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,7 +166,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:43:16 UTC
+ Last Updated on 26/07/2026 19:43:19 UTC
 <!--END_SECTION:waka-->
 
 <br>
