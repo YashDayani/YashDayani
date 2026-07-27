@@ -89,7 +89,9 @@ const Yash_bio = {
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C591%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C568%20hrs%2042%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -132,25 +134,51 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
-Markdown                 3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Other                    1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-JSON                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-CSS                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+TypeScript               4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.55 % 
+Markdown                 3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Other                    1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+CSS                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Astro                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 41 mins      ███████████████████░░░░░░   75.72 % 
-VS Code                  3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Claude Code              10 hrs 24 mins      ███████████████████░░░░░░   75.70 % 
+VS Code                  3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
 
 🐱‍💻 Projects: 
-Feedspace-Embed-Widget   4 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
-Feedspace-Frontend-Nextjs3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-observer-sessions        1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Hobbo-API                1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-frontend                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Feedspace-Embed-Widget   4 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.26 % 
+Feedspace-Frontend-Nextjs3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+observer-sessions        1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Hobbo-API                1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+frontend                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 
 💻 Operating System: 
-Mac                      14 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 45 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 43 mins (92.52%)
+
+✍️ 6,205 lines written by AI, 172 lines written by hand (97.3% AI-written)
+
+🔤 306,118,206 Input Tokens, 2,129,475 Output Tokens
+
+💵 $1438.08 Estimated AI Cost This Week
+
+🧠 115 AI Sessions, 599 AI Prompts
+
+Opus                     6,279 lines         ████████████████████████░   94.46 % 
+Fable                    368 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.3% of written lines came from AI
+📚 Verbose Prompter — average 11,461 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 7.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,7 +194,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:43:19 UTC
+ Last Updated on 27/07/2026 20:04:15 UTC
 <!--END_SECTION:waka-->
 
 <br>
