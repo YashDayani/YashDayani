@@ -134,51 +134,47 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   45.69 % 
-CSS                      1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Other                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-HTML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+TypeScript               1 hr 2 mins         ████████████░░░░░░░░░░░░░   47.72 % 
+CSS                      41 mins             ████████░░░░░░░░░░░░░░░░░   31.55 % 
+Other                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Astro                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 48 mins       ██████████████████░░░░░░░   70.89 % 
-VS Code                  1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+Claude Code              1 hr 40 mins        ███████████████████░░░░░░   76.80 % 
+VS Code                  30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
 
 🐱‍💻 Projects: 
-Feedspace-Embed-Widget   3 hrs 49 mins       ██████████████████░░░░░░░   71.06 % 
-observer-sessions        46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-frontend                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Feedspace-MCP            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Feedspace-Frontend-Nextjs5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Feedspace-Embed-Widget   1 hr 48 mins        █████████████████████░░░░   82.90 % 
+observer-sessions        22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 
 💻 Operating System: 
-Mac                      5 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 40 mins (86.91%)
+⏱ AI Coding Time: 2 hrs 1 min (92.93%)
 
-✍️ 800 lines written by AI, 160 lines written by hand (83.33% AI-written)
+✍️ 418 lines written by AI, 9 lines written by hand (97.89% AI-written)
 
-🔤 138,287,768 Input Tokens, 810,966 Output Tokens
+🔤 76,984,452 Input Tokens, 353,245 Output Tokens
 
-💵 $667.23 Estimated AI Cost This Week
+💵 $388.97 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 263 AI Prompts
+🧠 16 AI Sessions, 106 AI Prompts
 
-Opus                     874 lines           █████████████████████████   100.00 % 
+Opus                     460 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.33% of written lines came from AI
-📚 Verbose Prompter — average 6,447 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 35.2% of changed lines were hand-edited
+🤖 AI-Driven — 97.89% of written lines came from AI
+📚 Verbose Prompter — average 2,995 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 5.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -194,7 +190,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 19:52:34 UTC
+ Last Updated on 30/07/2026 20:01:31 UTC
 <!--END_SECTION:waka-->
 
 <br>
