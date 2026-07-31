@@ -134,47 +134,22 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 2 mins         ████████████░░░░░░░░░░░░░   47.72 % 
-CSS                      41 mins             ████████░░░░░░░░░░░░░░░░░   31.55 % 
-Other                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Astro                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 40 mins        ███████████████████░░░░░░   76.80 % 
-VS Code                  30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Claude Code              1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Feedspace-Embed-Widget   1 hr 48 mins        █████████████████████░░░░   82.90 % 
-observer-sessions        22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 1 min (92.93%)
-
-✍️ 418 lines written by AI, 9 lines written by hand (97.89% AI-written)
-
-🔤 76,984,452 Input Tokens, 353,245 Output Tokens
-
-💵 $388.97 Estimated AI Cost This Week
-
-🧠 16 AI Sessions, 106 AI Prompts
-
-Opus                     460 lines           █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.89% of written lines came from AI
-📚 Verbose Prompter — average 2,995 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 5.25% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -190,7 +165,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 20:01:31 UTC
+ Last Updated on 31/07/2026 20:02:28 UTC
 <!--END_SECTION:waka-->
 
 <br>
