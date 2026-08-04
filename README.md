@@ -134,22 +134,48 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   31.78 % 
+CSS                      1 hr                ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+Markdown                 53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+TypeScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 
 🔥 Editors: 
-Claude Code              1 min               █████████████████████████   100.00 % 
+Claude Code              3 hrs 33 mins       ████████████████████████░   97.23 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Feedspace-Embed-Widget   2 hrs 35 mins       ██████████████████░░░░░░░   71.15 % 
+Hobbo-API                31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Feedspace-Frontend-Nextjs17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Kalaa-Social-Media-Backen13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 37 mins (99.51%)
+
+✍️ 1,143 lines written by AI, 1 lines written by hand (99.91% AI-written)
+
+🔤 82,646,685 Input Tokens, 262,991 Output Tokens
+
+💵 $439.72 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 38 AI Prompts
+
+Opus                     1,224 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.91% of written lines came from AI
+📝 Concise Prompter — average 490 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -165,7 +191,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:43:26 UTC
+ Last Updated on 04/08/2026 20:09:21 UTC
 <!--END_SECTION:waka-->
 
 <br>
