@@ -89,9 +89,9 @@ const Yash_bio = {
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C568%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C572%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -134,48 +134,49 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   31.78 % 
-CSS                      1 hr                ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-Markdown                 53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-TypeScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+TypeScript               5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.09 % 
+Markdown                 4 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
+JavaScript               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+CSS                      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 33 mins       ████████████████████████░   97.23 % 
-VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Claude Code              12 hrs 22 mins      ███████████████████████░░   92.77 % 
+VS Code                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 
 🐱‍💻 Projects: 
-Feedspace-Embed-Widget   2 hrs 35 mins       ██████████████████░░░░░░░   71.15 % 
-Hobbo-API                31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Feedspace-Frontend-Nextjs17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Kalaa-Social-Media-Backen13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Feedspace-Frontend-Nextjs4 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.11 % 
+Feedspace-Embed-Widget   3 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+admin                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Hobbo-API                1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Feedspace-MCP            49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 💻 Operating System: 
-Mac                      3 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 37 mins (99.51%)
+⏱ AI Coding Time: 13 hrs 19 mins (99.87%)
 
-✍️ 1,143 lines written by AI, 1 lines written by hand (99.91% AI-written)
+✍️ 12,981 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 82,646,685 Input Tokens, 262,991 Output Tokens
+🔤 471,503,513 Input Tokens, 1,338,362 Output Tokens
 
-💵 $439.72 Estimated AI Cost This Week
+💵 $2253.74 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 38 AI Prompts
+🧠 42 AI Sessions, 118 AI Prompts
 
-Opus                     1,224 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     12,064 lines        █████████████████████████   98.44 % 
+GPT                      191 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📝 Concise Prompter — average 490 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.58% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 1,647 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -191,7 +192,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 20:09:21 UTC
+ Last Updated on 05/08/2026 20:07:42 UTC
 <!--END_SECTION:waka-->
 
 <br>
