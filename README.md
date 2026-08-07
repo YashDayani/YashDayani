@@ -89,10 +89,6 @@ const Yash_bio = {
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C572%20hrs%204%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2021%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.41%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -107,78 +103,6 @@ const Yash_bio = {
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                299 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-🌆 Daytime                659 commits         █████████░░░░░░░░░░░░░░░░   36.43 % 
-🌃 Evening                666 commits         █████████░░░░░░░░░░░░░░░░   36.82 % 
-🌙 Night                  185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Tuesday                  165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Wednesday                192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Thursday                 370 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Friday                   279 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Saturday                 476 commits         ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-Sunday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.09 % 
-Markdown                 4 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
-JavaScript               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-CSS                      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-
-🔥 Editors: 
-Claude Code              12 hrs 22 mins      ███████████████████████░░   92.77 % 
-VS Code                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-
-🐱‍💻 Projects: 
-Feedspace-Frontend-Nextjs4 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.11 % 
-Feedspace-Embed-Widget   3 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.28 % 
-admin                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Hobbo-API                1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Feedspace-MCP            49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-
-💻 Operating System: 
-Mac                      13 hrs 20 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 13 hrs 19 mins (99.87%)
-
-✍️ 12,981 lines written by AI, 1 lines written by hand (99.99% AI-written)
-
-🔤 471,503,513 Input Tokens, 1,338,362 Output Tokens
-
-💵 $2253.74 Estimated AI Cost This Week
-
-🧠 42 AI Sessions, 118 AI Prompts
-
-Opus                     12,064 lines        █████████████████████████   98.44 % 
-GPT                      191 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 1,647 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -192,7 +116,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:07:42 UTC
+ Last Updated on 07/08/2026 00:23:34 UTC
 <!--END_SECTION:waka-->
 
 <br>
