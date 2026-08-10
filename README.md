@@ -134,51 +134,51 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.52 % 
-Markdown                 3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-JavaScript               1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-CSS                      1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+TypeScript               3 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
+Markdown                 3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+JavaScript               1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+CSS                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 32 mins       ███████████████████░░░░░░   74.82 % 
-VS Code                  2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Exec Wakatime            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Claude Code              7 hrs 50 mins       ██████████████████░░░░░░░   73.19 % 
+VS Code                  2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+Exec Wakatime            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🐱‍💻 Projects: 
-Feedspace-Frontend-Nextjs6 hrs 45 mins       ███████████████░░░░░░░░░░   59.18 % 
-Feedspace-Embed-Widget   2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-Hobbo-API                53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-reviewos.io              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-untitled folder 2        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Feedspace-Frontend-Nextjs6 hrs 45 mins       ████████████████░░░░░░░░░   63.03 % 
+Feedspace-Embed-Widget   2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+Hobbo-API                53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Kalaa-Social-Media-Backen13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Feedspace-MCP            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      11 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 17 mins (98.95%)
+⏱ AI Coding Time: 10 hrs 35 mins (98.88%)
 
-✍️ 19,625 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 15,511 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 261,439,016 Input Tokens, 1,110,575 Output Tokens
+🔤 231,973,820 Input Tokens, 978,112 Output Tokens
 
-💵 $1272.38 Estimated AI Cost This Week
+💵 $1124.52 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 100 AI Prompts
+🧠 35 AI Sessions, 95 AI Prompts
 
-Opus                     10,379 lines        █████████████░░░░░░░░░░░░   51.66 % 
-GPT                      9,529 lines         ████████████░░░░░░░░░░░░░   47.43 % 
-Sonnet                   182 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+GPT                      9,529 lines         ███████████████░░░░░░░░░░   60.06 % 
+Opus                     6,155 lines         ██████████░░░░░░░░░░░░░░░   38.79 % 
+Sonnet                   182 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 1,700 characters per prompt
+📄 Detailed Prompter — average 1,379 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -194,7 +194,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 19:11:25 UTC
+ Last Updated on 10/08/2026 19:30:32 UTC
 <!--END_SECTION:waka-->
 
 <br>
