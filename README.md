@@ -134,51 +134,52 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
-Markdown                 3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-JavaScript               1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-CSS                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+TypeScript               5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.47 % 
+Markdown                 5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.49 % 
+JavaScript               1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 50 mins       ██████████████████░░░░░░░   73.19 % 
-VS Code                  2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-Exec Wakatime            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Claude Code              12 hrs 36 mins      ████████████████████░░░░░   81.47 % 
+VS Code                  2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Exec Wakatime            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-Feedspace-Frontend-Nextjs6 hrs 45 mins       ████████████████░░░░░░░░░   63.03 % 
-Feedspace-Embed-Widget   2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-Hobbo-API                53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Kalaa-Social-Media-Backen13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Feedspace-MCP            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Feedspace-Frontend-Nextjs12 hrs 9 mins       ████████████████████░░░░░   78.56 % 
+Feedspace-Embed-Widget   1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Hobbo-API                1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Feedspace-MCP            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Mac                      10 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 35 mins (98.88%)
+⏱ AI Coding Time: 15 hrs 22 mins (99.34%)
 
-✍️ 15,511 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 18,971 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 231,973,820 Input Tokens, 978,112 Output Tokens
+🔤 339,445,231 Input Tokens, 1,259,177 Output Tokens
 
-💵 $1124.52 Estimated AI Cost This Week
+💵 $1637.95 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 95 AI Prompts
+🧠 96 AI Sessions, 175 AI Prompts
 
-GPT                      9,529 lines         ███████████████░░░░░░░░░░   60.06 % 
-Opus                     6,155 lines         ██████████░░░░░░░░░░░░░░░   38.79 % 
-Sonnet                   182 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+GPT                      9,529 lines         ████████████░░░░░░░░░░░░░   49.42 % 
+Opus                     9,475 lines         ████████████░░░░░░░░░░░░░   49.14 % 
+Sonnet                   276 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 1,379 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+📚 Verbose Prompter — average 1,540 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -194,7 +195,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 19:30:32 UTC
+ Last Updated on 11/08/2026 19:34:38 UTC
 <!--END_SECTION:waka-->
 
 <br>
