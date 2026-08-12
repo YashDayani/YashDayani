@@ -134,50 +134,50 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.47 % 
-Markdown                 5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.49 % 
-JavaScript               1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   43.18 % 
+Markdown                 3 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.38 % 
+JavaScript               1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 36 mins      ████████████████████░░░░░   81.47 % 
-VS Code                  2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Exec Wakatime            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Claude Code              8 hrs 21 mins       ███████████████████░░░░░░   74.45 % 
+VS Code                  2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Exec Wakatime            13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-Feedspace-Frontend-Nextjs12 hrs 9 mins       ████████████████████░░░░░   78.56 % 
-Feedspace-Embed-Widget   1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Hobbo-API                1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Feedspace-MCP            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Feedspace-Frontend-Nextjs8 hrs 28 mins       ███████████████████░░░░░░   75.50 % 
+Hobbo-API                1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Feedspace-Embed-Widget   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Feedspace-MCP            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Mac                      15 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 22 mins (99.34%)
+⏱ AI Coding Time: 11 hrs 7 mins (99.09%)
 
-✍️ 18,971 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 15,564 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 339,445,231 Input Tokens, 1,259,177 Output Tokens
+🔤 256,163,821 Input Tokens, 1,031,608 Output Tokens
 
-💵 $1637.95 Estimated AI Cost This Week
+💵 $1229.42 Estimated AI Cost This Week
 
-🧠 96 AI Sessions, 175 AI Prompts
+🧠 63 AI Sessions, 114 AI Prompts
 
-GPT                      9,529 lines         ████████████░░░░░░░░░░░░░   49.42 % 
-Opus                     9,475 lines         ████████████░░░░░░░░░░░░░   49.14 % 
-Sonnet                   276 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+GPT                      9,529 lines         ███████████████░░░░░░░░░░   60.03 % 
+Opus                     6,068 lines         ██████████░░░░░░░░░░░░░░░   38.23 % 
+Sonnet                   276 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 1,540 characters per prompt
+📄 Detailed Prompter — average 1,485 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -195,7 +195,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:34:38 UTC
+ Last Updated on 12/08/2026 19:37:04 UTC
 <!--END_SECTION:waka-->
 
 <br>
