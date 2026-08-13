@@ -134,50 +134,48 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   43.18 % 
-Markdown                 3 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.38 % 
-JavaScript               1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+TypeScript               3 hrs 37 mins       █████████████░░░░░░░░░░░░   50.61 % 
+Markdown                 2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.57 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 21 mins       ███████████████████░░░░░░   74.45 % 
-VS Code                  2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Exec Wakatime            13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              4 hrs 24 mins       ███████████████░░░░░░░░░░   61.34 % 
+VS Code                  2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.80 % 
+Exec Wakatime            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🐱‍💻 Projects: 
-Feedspace-Frontend-Nextjs8 hrs 28 mins       ███████████████████░░░░░░   75.50 % 
-Hobbo-API                1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Feedspace-Embed-Widget   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Feedspace-MCP            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Feedspace-Frontend-Nextjs6 hrs 27 mins       ███████████████████████░░   90.08 % 
+Hobbo-API                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Feedspace-Embed-Widget   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Feedspace-MCP            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-Mac                      11 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 7 mins (99.09%)
+⏱ AI Coding Time: 7 hrs 4 mins (98.58%)
 
-✍️ 15,564 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 14,462 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 256,163,821 Input Tokens, 1,031,608 Output Tokens
+🔤 152,044,821 Input Tokens, 725,541 Output Tokens
 
-💵 $1229.42 Estimated AI Cost This Week
+💵 $714.57 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 114 AI Prompts
+🧠 31 AI Sessions, 60 AI Prompts
 
-GPT                      9,529 lines         ███████████████░░░░░░░░░░   60.03 % 
-Opus                     6,068 lines         ██████████░░░░░░░░░░░░░░░   38.23 % 
-Sonnet                   276 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+GPT                      9,529 lines         ████████████████░░░░░░░░░   64.60 % 
+Opus                     4,945 lines         ████████░░░░░░░░░░░░░░░░░   33.53 % 
+Sonnet                   276 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 1,485 characters per prompt
+📚 Verbose Prompter — average 1,940 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -195,7 +193,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 19:37:04 UTC
+ Last Updated on 13/08/2026 19:34:32 UTC
 <!--END_SECTION:waka-->
 
 <br>
