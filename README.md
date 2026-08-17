@@ -134,48 +134,48 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 10 mins       ████████████████░░░░░░░░░   65.82 % 
-TypeScript               1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-JavaScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Markdown                 10 hrs 44 mins      ██████████████░░░░░░░░░░░   54.05 % 
+TypeScript               5 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+JavaScript               2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 6 mins        ████████████████████████░   96.26 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Claude Code              18 hrs 57 mins      ████████████████████████░   95.35 % 
+VS Code                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🐱‍💻 Projects: 
-Hobbo-API                2 hrs 51 mins       ███████████░░░░░░░░░░░░░░   45.01 % 
-Feedspace-Frontend-Nextjs2 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   38.98 % 
-raw                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Feedspace SEO            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-feedspace.io-audit       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Feedspace-Frontend-Nextjs8 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.86 % 
+Hobbo-API                6 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.26 % 
+frontend                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Saloon Radio             1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Habbit Tracker           59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 💻 Operating System: 
-Mac                      6 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      19 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 19 mins (99.57%)
+⏱ AI Coding Time: 19 hrs 51 mins (99.86%)
 
-✍️ 6,266 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 18,334 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 163,323,267 Input Tokens, 639,758 Output Tokens
+🔤 594,286,257 Input Tokens, 2,277,240 Output Tokens
 
-💵 $808.88 Estimated AI Cost This Week
+💵 $2953.36 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 44 AI Prompts
+🧠 49 AI Sessions, 134 AI Prompts
 
-Opus                     6,410 lines         █████████████████████████   100.00 % 
+Opus                     19,381 lines        █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,400 characters per prompt
+📚 Verbose Prompter — average 3,267 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -193,7 +193,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 18:56:08 UTC
+ Last Updated on 17/08/2026 19:08:12 UTC
 <!--END_SECTION:waka-->
 
 <br>
