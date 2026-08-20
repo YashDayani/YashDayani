@@ -89,9 +89,9 @@ const Yash_bio = {
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C585%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C591%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -134,50 +134,53 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 8 hrs 56 mins       ██████████████░░░░░░░░░░░   54.82 % 
-TypeScript               4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-JavaScript               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Markdown                 5 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.40 % 
+TypeScript               4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Other                    2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+CSS                      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 23 mins      ████████████████████████░   94.34 % 
-VS Code                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Claude Code              13 hrs 34 mins      ███████████████████████░░   93.37 % 
+VS Code                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Codex Vscode             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-Feedspace-Frontend-Nextjs8 hrs               ████████████░░░░░░░░░░░░░   49.06 % 
-Hobbo-API                4 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-Saloon Radio             1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-frontend                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-raw                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Feedspace-Embed-Widget   3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+Feedspace-Frontend-Nextjs3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Hobbo-API                3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+HouseOfHiya              2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+raw                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Mac                      16 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 17 mins (99.83%)
+⏱ AI Coding Time: 14 hrs 26 mins (99.34%)
 
-✍️ 13,839 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,247 lines written by AI, 9 lines written by hand (99.89% AI-written)
 
-🔤 460,778,489 Input Tokens, 1,814,505 Output Tokens
+🔤 166,829,937 Input Tokens, 1,470,359 Output Tokens
 
-💵 $2279.95 Estimated AI Cost This Week
+💵 $1076.96 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 98 AI Prompts
+🧠 34 AI Sessions, 116 AI Prompts
 
-Opus                     14,606 lines        █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     8,355 lines         █████████████████████████   98.51 % 
+GPT                      126 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,861 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 2,373 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -193,7 +196,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 19:07:23 UTC
+ Last Updated on 20/08/2026 19:10:40 UTC
 <!--END_SECTION:waka-->
 
 <br>
