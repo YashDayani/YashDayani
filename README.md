@@ -134,51 +134,51 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.25 % 
-Markdown                 3 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Other                    2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-CSS                      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+TypeScript               6 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.45 % 
+Markdown                 2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Other                    2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+CSS                      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Image (svg)              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 4 mins       ████████████████████████░   94.50 % 
-VS Code                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Codex Vscode             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Claude Code              12 hrs 10 mins      ████████████████████████░   94.20 % 
+VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Codex Vscode             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-Feedspace-Embed-Widget   5 hrs               █████████░░░░░░░░░░░░░░░░   36.22 % 
-HouseOfHiya              3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-StoryPrompt Style QnA For2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Feedspace-Frontend-Nextjs1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Hobbo-API                36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Feedspace-Embed-Widget   4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.86 % 
+HouseOfHiya              3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+StoryPrompt Style QnA For2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Feedspace-Frontend-Nextjs1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Hobbo-API                36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 Operating System: 
-Mac                      13 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 45 mins (99.51%)
+⏱ AI Coding Time: 12 hrs 50 mins (99.47%)
 
-✍️ 8,817 lines written by AI, 9 lines written by hand (99.9% AI-written)
+✍️ 8,207 lines written by AI, 9 lines written by hand (99.89% AI-written)
 
-🔤 6,847,561 Input Tokens, 1,478,236 Output Tokens
+🔤 6,101,805 Input Tokens, 1,393,117 Output Tokens
 
-💵 $449.02 Estimated AI Cost This Week
+💵 $411.79 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 102 AI Prompts
+🧠 27 AI Sessions, 98 AI Prompts
 
-Opus                     9,205 lines         █████████████████████████   98.65 % 
-GPT                      126 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Opus                     8,536 lines         █████████████████████████   98.55 % 
+GPT                      126 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📄 Detailed Prompter — average 1,452 characters per prompt
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 1,510 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
@@ -196,7 +196,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:57:37 UTC
+ Last Updated on 24/08/2026 19:10:52 UTC
 <!--END_SECTION:waka-->
 
 <br>
