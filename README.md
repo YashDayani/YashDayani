@@ -134,53 +134,47 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   41.33 % 
-Other                    2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-CSS                      1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+TypeScript               48 mins             █████████████████████░░░░   82.67 % 
+Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 27 mins       ███████████████████████░░   91.13 % 
-VS Code                  30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Codex Vscode             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Claude Code              42 mins             ██████████████████░░░░░░░   72.25 % 
+Codex Vscode             12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 🐱‍💻 Projects: 
-Feedspace-Embed-Widget   3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.05 % 
-HouseOfHiya              2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-Feedspace-Frontend-Nextjs1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Hobbo-API                29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-StoryPrompt Style QnA For27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+StoryPrompt Style QnA For27 mins             ████████████░░░░░░░░░░░░░   46.77 % 
+Feedspace-Frontend-Nextjs24 mins             ██████████░░░░░░░░░░░░░░░   41.44 % 
+Feedspace-Embed-Widget   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+gemini-live-interview    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Mac                      8 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 7 mins (99.17%)
+⏱ AI Coding Time: 58 mins (100.0%)
 
-✍️ 1,981 lines written by AI, 9 lines written by hand (99.55% AI-written)
+✍️ 212 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,506,670 Input Tokens, 830,601 Output Tokens
+🔤 780,277 Input Tokens, 106,813 Output Tokens
 
-💵 $268.69 Estimated AI Cost This Week
+💵 $25.28 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 72 AI Prompts
+🧠 5 AI Sessions, 8 AI Prompts
 
-Opus                     1,898 lines         ███████████████████████░░   93.77 % 
-GPT                      126 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      126 lines           █████████████░░░░░░░░░░░░   50.40 % 
+Opus                     124 lines           ████████████░░░░░░░░░░░░░   49.60 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.55% of written lines came from AI
-📚 Verbose Prompter — average 1,745 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 548 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -196,7 +190,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 19:08:45 UTC
+ Last Updated on 26/08/2026 20:32:50 UTC
 <!--END_SECTION:waka-->
 
 <br>
