@@ -134,47 +134,22 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               48 mins             █████████████████████░░░░   82.67 % 
-Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              42 mins             ██████████████████░░░░░░░   72.25 % 
-Codex Vscode             12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-StoryPrompt Style QnA For27 mins             ████████████░░░░░░░░░░░░░   46.77 % 
-Feedspace-Frontend-Nextjs24 mins             ██████████░░░░░░░░░░░░░░░   41.44 % 
-Feedspace-Embed-Widget   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-gemini-live-interview    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (100.0%)
-
-✍️ 212 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 780,277 Input Tokens, 106,813 Output Tokens
-
-💵 $25.28 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 8 AI Prompts
-
-GPT                      126 lines           █████████████░░░░░░░░░░░░   50.40 % 
-Opus                     124 lines           ████████████░░░░░░░░░░░░░   49.60 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 548 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -190,7 +165,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 20:32:50 UTC
+ Last Updated on 28/08/2026 02:16:54 UTC
 <!--END_SECTION:waka-->
 
 <br>
