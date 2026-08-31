@@ -107,51 +107,6 @@ const Yash_bio = {
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                299 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-🌆 Daytime                659 commits         █████████░░░░░░░░░░░░░░░░   36.41 % 
-🌃 Evening                667 commits         █████████░░░░░░░░░░░░░░░░   36.85 % 
-🌙 Night                  185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Tuesday                  165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Wednesday                192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Thursday                 370 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Friday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Saturday                 476 commits         ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-Sunday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -165,7 +120,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 21:22:30 UTC
+ Last Updated on 31/08/2026 22:59:09 UTC
 <!--END_SECTION:waka-->
 
 <br>
