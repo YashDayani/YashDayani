@@ -89,9 +89,9 @@ const Yash_bio = {
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C591%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C595%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -107,6 +107,83 @@ const Yash_bio = {
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                299 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+🌆 Daytime                659 commits         █████████░░░░░░░░░░░░░░░░   36.41 % 
+🌃 Evening                667 commits         █████████░░░░░░░░░░░░░░░░   36.85 % 
+🌙 Night                  185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Tuesday                  165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Wednesday                192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Thursday                 370 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Friday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Saturday                 476 commits         ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+Sunday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               12 hrs 45 mins      ██████████████░░░░░░░░░░░   56.94 % 
+Markdown                 6 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
+JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+PHP                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+
+🔥 Editors: 
+Claude Code              16 hrs 18 mins      ██████████████████░░░░░░░   72.79 % 
+Codex Vscode             2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+VS Code                  1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Antigravity IDE          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Antigravity Desktop      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+
+🐱‍💻 Projects: 
+Feedspace-Frontend-Nextjs6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.06 % 
+Feedspace-Embed-Widget   4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+StoryPrompt Style QnA For3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Feedspace-MCP            2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+frontend                 2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+
+💻 Operating System: 
+Mac                      22 hrs 24 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 22 hrs 24 mins (100.0%)
+
+✍️ 12,145 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 19,928,999 Input Tokens, 2,672,048 Output Tokens
+
+💵 $681.80 Estimated AI Cost This Week
+
+🧠 65 AI Sessions, 196 AI Prompts
+
+Opus                     7,518 lines         ███████████████░░░░░░░░░░   58.04 % 
+Fable                    3,208 lines         ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+GPT                      2,113 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Gemini                   63 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Sonnet                   52 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 8,588 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -120,7 +197,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 22:59:09 UTC
+ Last Updated on 01/09/2026 21:13:03 UTC
 <!--END_SECTION:waka-->
 
 <br>
