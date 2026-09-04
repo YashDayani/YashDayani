@@ -134,53 +134,53 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 23 mins       ██████████████░░░░░░░░░░░   54.63 % 
-Markdown                 4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.34 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+TypeScript               4 hrs 4 mins        █████████████░░░░░░░░░░░░   50.40 % 
+Markdown                 2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.78 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 45 mins       ███████████████████░░░░░░   74.88 % 
-Codex Vscode             1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Antigravity IDE          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Agent                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Claude Code              5 hrs 9 mins        ████████████████░░░░░░░░░   63.71 % 
+Codex Vscode             1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Antigravity IDE          57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Agent                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🐱‍💻 Projects: 
-Feedspace-Embed-Widget   4 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.93 % 
-Feedspace-MCP            1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Feedspace-Frontend-Nextjs1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-metalforge.xyz           1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-StoryPrompt Style QnA For59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Feedspace-Embed-Widget   4 hrs 5 mins        █████████████░░░░░░░░░░░░   50.47 % 
+Feedspace-MCP            1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Feedspace-Frontend-Nextjs57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+metalforge.xyz           42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+original_analysis        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 💻 Operating System: 
-Mac                      11 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 41 mins (100.0%)
+⏱ AI Coding Time: 8 hrs 5 mins (100.0%)
 
-✍️ 11,554 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,382 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,311,247 Input Tokens, 1,430,067 Output Tokens
+🔤 6,331,547 Input Tokens, 911,831 Output Tokens
 
-💵 $402.74 Estimated AI Cost This Week
+💵 $227.60 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 99 AI Prompts
+🧠 23 AI Sessions, 81 AI Prompts
 
-Opus                     7,190 lines         ███████████████░░░░░░░░░░   58.48 % 
-Fable                    2,957 lines         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-GPT                      2,085 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Gemini                   63 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Opus                     5,257 lines         █████████████░░░░░░░░░░░░   52.16 % 
+Fable                    2,674 lines         ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+GPT                      2,085 lines         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Gemini                   63 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,246 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 9,081 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -197,7 +197,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 21:13:43 UTC
+ Last Updated on 04/09/2026 20:56:09 UTC
 <!--END_SECTION:waka-->
 
 <br>
