@@ -134,41 +134,40 @@ Sunday                   207 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 21 mins       █████████████░░░░░░░░░░░░   50.76 % 
-Markdown                 1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   33.84 % 
-Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+TypeScript               2 hrs 18 mins       █████████████░░░░░░░░░░░░   50.10 % 
+Markdown                 1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   34.30 % 
+Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 40 mins       ██████████████░░░░░░░░░░░   57.50 % 
-Codex Vscode             1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-VS Code                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Agent                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Claude Code              2 hrs 36 mins       ██████████████░░░░░░░░░░░   56.92 % 
+Codex Vscode             1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+VS Code                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Agent                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 🐱‍💻 Projects: 
-Feedspace-Embed-Widget   1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   41.55 % 
-Feedspace-MCP            1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   33.93 % 
-Feedspace-Frontend-Nextjs57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-frontend                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Feedspace-Embed-Widget   1 hr 56 mins        ███████████░░░░░░░░░░░░░░   42.11 % 
+Feedspace-MCP            1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   34.39 % 
+Feedspace-Frontend-Nextjs57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 💻 Operating System: 
-Mac                      4 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 39 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 35 mins (100.0%)
 
 ✍️ 3,846 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,802,541 Input Tokens, 482,047 Output Tokens
+🔤 3,797,899 Input Tokens, 479,753 Output Tokens
 
-💵 $98.11 Estimated AI Cost This Week
+💵 $97.92 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 70 AI Prompts
+🧠 16 AI Sessions, 70 AI Prompts
 
 GPT                      2,085 lines         █████████████░░░░░░░░░░░░   52.44 % 
 Opus                     1,598 lines         ██████████░░░░░░░░░░░░░░░   40.19 % 
@@ -196,7 +195,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:35:03 UTC
+ Last Updated on 06/09/2026 20:38:58 UTC
 <!--END_SECTION:waka-->
 
 <br>
