@@ -99,7 +99,7 @@ const Yash_bio = {
 
 > 📦 217.2 kB Used in GitHub's Storage 
  > 
-> 🏆 58 Contributions in the Year 2026
+> 🏆 56 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,21 +110,21 @@ const Yash_bio = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                299 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-🌆 Daytime                659 commits         █████████░░░░░░░░░░░░░░░░   36.41 % 
-🌃 Evening                667 commits         █████████░░░░░░░░░░░░░░░░   36.85 % 
-🌙 Night                  185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+🌞 Morning                299 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+🌆 Daytime                659 commits         █████████░░░░░░░░░░░░░░░░   36.45 % 
+🌃 Evening                665 commits         █████████░░░░░░░░░░░░░░░░   36.78 % 
+🌙 Night                  185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Tuesday                  165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Wednesday                192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Thursday                 370 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Friday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Saturday                 476 commits         ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-Sunday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Monday                   120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Tuesday                  165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Wednesday                192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Thursday                 370 commits         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Friday                   278 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Saturday                 476 commits         ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Sunday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 ```
 
 
@@ -182,20 +182,20 @@ Cursor                   0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   42.11 % 
-JavaScript               16 repos            ███████████░░░░░░░░░░░░░░   42.11 % 
-MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JavaScript               15 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               14 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 06/09/2026 20:38:58 UTC
+ Last Updated on 07/09/2026 21:42:31 UTC
 <!--END_SECTION:waka-->
 
 <br>
