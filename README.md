@@ -99,7 +99,7 @@ const Yash_bio = {
 
 > 📦 227.2 kB Used in GitHub's Storage 
  > 
-> 🏆 67 Contributions in the Year 2026
+> 🏆 68 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,20 +110,20 @@ const Yash_bio = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                309 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-🌆 Daytime                730 commits         █████████░░░░░░░░░░░░░░░░   37.15 % 
-🌃 Evening                722 commits         █████████░░░░░░░░░░░░░░░░   36.74 % 
+🌞 Morning                309 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+🌆 Daytime                731 commits         █████████░░░░░░░░░░░░░░░░   37.18 % 
+🌃 Evening                722 commits         █████████░░░░░░░░░░░░░░░░   36.72 % 
 🌙 Night                  204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Tuesday                  186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Wednesday                213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Thursday                 404 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Friday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Saturday                 510 commits         ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Monday                   130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Tuesday                  186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Wednesday                213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Thursday                 404 commits         █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+Friday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Saturday                 511 commits         ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
 Sunday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 ```
 
@@ -134,47 +134,45 @@ Sunday                   228 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 42 mins       ████████████████████░░░░░   78.54 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               2 hrs 16 mins       ███████████████████░░░░░░   74.31 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-Claude Code              4 hrs               █████████████████████░░░░   84.80 % 
-VS Code                  33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Codex Exec               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Claude Code              2 hrs 33 mins       █████████████████████░░░░   83.70 % 
+VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
 
 🐱‍💻 Projects: 
-Habbit Tracker           2 hrs 55 mins       ███████████████░░░░░░░░░░   61.76 % 
-Feedspace-MCP            39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-observer-sessions        23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Feedspace-Frontend-Nextjs19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-homebrew                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Habbit Tracker           1 hr 42 mins        ██████████████░░░░░░░░░░░   55.57 % 
+Feedspace-MCP            39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+observer-sessions        23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+pracinter-frontend       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Feedspace-Frontend-Nextjs6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 💻 Operating System: 
-Mac                      4 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 41 mins (99.08%)
+⏱ AI Coding Time: 3 hrs 1 min (98.58%)
 
 ✍️ 234 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 529,660 Input Tokens, 145,894 Output Tokens
+🔤 382,534 Input Tokens, 132,669 Output Tokens
 
-💵 $17.87 Estimated AI Cost This Week
+💵 $16.39 Estimated AI Cost This Week
 
-🧠 179 AI Sessions, 187 AI Prompts
+🧠 114 AI Sessions, 123 AI Prompts
 
 Opus                     234 lines           █████████████████████████   100.00 % 
-Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 71,808 characters per prompt
+📚 Verbose Prompter — average 82,073 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -192,7 +190,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 21:09:28 UTC
+ Last Updated on 12/09/2026 20:47:16 UTC
 <!--END_SECTION:waka-->
 
 <br>
