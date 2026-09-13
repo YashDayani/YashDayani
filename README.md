@@ -134,45 +134,45 @@ Sunday                   228 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 16 mins       ███████████████████░░░░░░   74.31 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+TypeScript               1 hr 19 mins        ████████████████░░░░░░░░░   62.72 % 
+JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 33 mins       █████████████████████░░░░   83.70 % 
-VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Claude Code              1 hr 36 mins        ███████████████████░░░░░░   76.35 % 
+VS Code                  29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
 
 🐱‍💻 Projects: 
-Habbit Tracker           1 hr 42 mins        ██████████████░░░░░░░░░░░   55.57 % 
-Feedspace-MCP            39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-observer-sessions        23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-pracinter-frontend       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Feedspace-Frontend-Nextjs6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Habbit Tracker           1 hr 5 mins         █████████████░░░░░░░░░░░░   51.55 % 
+observer-sessions        23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Feedspace-MCP            19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+pracinter-frontend       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Feedspace-Frontend-Nextjs6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 💻 Operating System: 
-Mac                      3 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 1 min (98.58%)
+⏱ AI Coding Time: 2 hrs 3 mins (97.94%)
 
 ✍️ 234 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 382,534 Input Tokens, 132,669 Output Tokens
+🔤 262,376 Input Tokens, 93,615 Output Tokens
 
-💵 $16.39 Estimated AI Cost This Week
+💵 $12.08 Estimated AI Cost This Week
 
-🧠 114 AI Sessions, 123 AI Prompts
+🧠 60 AI Sessions, 66 AI Prompts
 
 Opus                     234 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 82,073 characters per prompt
+📚 Verbose Prompter — average 86,702 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -190,7 +190,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 20:47:16 UTC
+ Last Updated on 13/09/2026 21:01:43 UTC
 <!--END_SECTION:waka-->
 
 <br>
