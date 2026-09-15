@@ -93,13 +93,13 @@ const Yash_bio = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-264%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 227.2 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2026
+> 🏆 72 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,21 +110,21 @@ const Yash_bio = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                309 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-🌆 Daytime                731 commits         █████████░░░░░░░░░░░░░░░░   37.18 % 
-🌃 Evening                722 commits         █████████░░░░░░░░░░░░░░░░   36.72 % 
-🌙 Night                  204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+🌞 Morning                309 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+🌆 Daytime                731 commits         █████████░░░░░░░░░░░░░░░░   37.14 % 
+🌃 Evening                724 commits         █████████░░░░░░░░░░░░░░░░   36.79 % 
+🌙 Night                  204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Tuesday                  186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Wednesday                213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Thursday                 404 commits         █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Friday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Saturday                 511 commits         ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
-Sunday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Tuesday                  188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Wednesday                213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Thursday                 404 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Friday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Saturday                 511 commits         ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Sunday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 ```
 
 
@@ -134,60 +134,38 @@ Sunday                   228 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     16 mins             ██████████░░░░░░░░░░░░░░░   40.35 % 
-Other                    11 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-Markdown                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-TypeScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             ██████████████████░░░░░░░   71.99 % 
-Claude Code              11 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-observer-sessions        23 mins             ██████████████░░░░░░░░░░░   56.72 % 
-Feedspace-MCP            15 mins             █████████░░░░░░░░░░░░░░░░   37.01 % 
-Feedspace-Embed-Widget   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (93.73%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 64,443 Input Tokens, 6,724 Output Tokens
-
-💵 $1.27 Estimated AI Cost This Week
-
-🧠 29 AI Sessions, 29 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 32,522 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               15 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
-JavaScript               15 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
-MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   43.24 % 
+JavaScript               15 repos            ██████████░░░░░░░░░░░░░░░   40.54 % 
+MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 14/09/2026 21:57:45 UTC
+ Last Updated on 15/09/2026 21:37:52 UTC
 <!--END_SECTION:waka-->
 
 <br>
