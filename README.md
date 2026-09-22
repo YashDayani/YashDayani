@@ -93,13 +93,13 @@ const Yash_bio = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-264%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.09%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.02%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 563.9 kB Used in GitHub's Storage 
  > 
-> 🏆 128 Contributions in the Year 2026
+> 🏆 186 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,21 +110,21 @@ const Yash_bio = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                400 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-🌆 Daytime                1097 commits        ██████████░░░░░░░░░░░░░░░   39.88 % 
-🌃 Evening                1027 commits        █████████░░░░░░░░░░░░░░░░   37.33 % 
-🌙 Night                  227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+🌞 Morning                534 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+🌆 Daytime                1840 commits        ████████████░░░░░░░░░░░░░   47.68 % 
+🌃 Evening                1258 commits        ████████░░░░░░░░░░░░░░░░░   32.60 % 
+🌙 Night                  227 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   157 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Tuesday                  272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Wednesday                514 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Thursday                 616 commits         ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-Friday                   420 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Saturday                 516 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Sunday                   256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Monday                   268 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Tuesday                  864 commits         ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Wednesday                703 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Thursday                 751 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Friday                   501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Saturday                 516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Sunday                   256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 
 
@@ -165,7 +165,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 22:08:35 UTC
+ Last Updated on 22/09/2026 21:36:04 UTC
 <!--END_SECTION:waka-->
 
 <br>
