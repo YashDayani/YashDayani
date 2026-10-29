@@ -93,13 +93,13 @@ const Yash_bio = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-264%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.64%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 489.9 kB Used in GitHub's Storage 
+> 📦 490.2 kB Used in GitHub's Storage 
  > 
-> 🏆 724 Contributions in the Year 2026
+> 🏆 765 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,21 +110,21 @@ const Yash_bio = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11240 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-🌆 Daytime                55762 commits       ████████████████░░░░░░░░░   63.50 % 
-🌃 Evening                19810 commits       ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-🌙 Night                  999 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+🌞 Morning                11740 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+🌆 Daytime                58560 commits       ████████████████░░░░░░░░░   63.77 % 
+🌃 Evening                20532 commits       ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+🌙 Night                  999 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   13916 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Tuesday                  27448 commits       ████████░░░░░░░░░░░░░░░░░   31.26 % 
-Wednesday                20376 commits       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Thursday                 11646 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Friday                   12338 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Saturday                 1805 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Sunday                   282 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Monday                   14624 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Tuesday                  28456 commits       ████████░░░░░░░░░░░░░░░░░   30.99 % 
+Wednesday                21256 commits       ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+Thursday                 12290 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Friday                   13022 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Saturday                 1901 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Sunday                   282 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 
@@ -165,7 +165,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 23:06:57 UTC
+ Last Updated on 29/10/2026 23:16:38 UTC
 <!--END_SECTION:waka-->
 
 <br>
